@@ -1,2 +1,2 @@
 # backend
-a repo to learn backend
+To implement the backend for StreamHub
